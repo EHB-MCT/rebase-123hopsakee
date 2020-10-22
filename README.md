@@ -10,8 +10,8 @@ Contributors
 
 
 toDo's
-Een pull request
-Geopend door elke member
-Gereviewed door elke member
-Een rebase, gedaan door elk lid, dus in elke branch
-Git conventions followed
+- Een pull request
+- Geopend door elke member
+- Gereviewed door elke member
+- Een rebase, gedaan door elk lid, dus in elke branch
+- Git conventions followed
