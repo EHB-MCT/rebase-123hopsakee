@@ -1,10 +1,11 @@
 # rebase-123hopsakee
 rebase-123hopsakee created by GitHub Classroom
+
 Gitflow opdracht
-'Gitflow opdracht' is een oefening op het conventioneel gebruik van git.
+- 'Gitflow opdracht' is een oefening op het conventioneel gebruik van git.
 
 what to find?
-main develop feat/ fix/ release/
+- main develop feat/ fix/ release/
 
 Contributors
 
