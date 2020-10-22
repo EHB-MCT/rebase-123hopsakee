@@ -7,7 +7,7 @@ what to find?
 main develop feat/ fix/ release/
 
 Contributors
-mathieu.de.pauw@student.ehb.be, kelly.peeters@student.ehb.be & jules.docx@student.ehb.be
+
 
 toDo's
 Een pull request
