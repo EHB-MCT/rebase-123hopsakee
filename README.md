@@ -8,7 +8,6 @@ what to find?
 - main develop feat/ fix/ release/
 
 Contributors
-lalallala
 
 toDo's
 - Een pull request
