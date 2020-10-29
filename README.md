@@ -9,6 +9,8 @@ what to find?
 
 Contributors
 shi.yuan.k.ji@student.ehb.be
+cyril.passeleur@student.ehb.be
+
 
 
 toDo's
