@@ -10,6 +10,8 @@ what to find?
 Contributors
 Cyril.passeleur@student.ehb.be
 
+
+
 toDo's
 - Een pull request
 - Geopend door elke member
