@@ -8,7 +8,7 @@ what to find?
 - main develop feat/ fix/ release/
 
 Contributors
-
+cyril.passeleur@student.ehb.be
 
 
 toDo's
