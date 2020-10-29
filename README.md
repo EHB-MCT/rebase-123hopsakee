@@ -8,7 +8,8 @@ what to find?
 - main develop feat/ fix/ release/
 
 Contributors
-Cyril.passeleur@student.ehb.be
+ffd
+
 
 toDo's
 - Een pull request
