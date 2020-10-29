@@ -8,7 +8,7 @@ what to find?
 - main develop feat/ fix/ release/
 
 Contributors
-
+shi.yuan.k.ji@student.ehb.be
 
 
 toDo's
